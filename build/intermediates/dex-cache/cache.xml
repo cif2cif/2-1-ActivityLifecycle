@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/libs/android-support-v13.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ecda966839090a41b29a9239d44bafc06fdadb87">
+        <dex dex="/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v13_e7c39c40b376e95d9b6890cca01005ddff6a1f8b/classes.dex" />
+    </item>
+    <item
+        jar="/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4bcb0886b9092a3330797a1ce77950a85bb46e0f">
+        <dex dex="/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7ff00602eb3d9db0a056abffba4824b45b34c97e/classes.dex" />
+    </item>
+    <item
+        jar="/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2fbb7dbd550d81ff00c832b3e5e0268667c3b8c8">
+        <dex dex="/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1a242acf23baec4fde9e186eb866effcd0876c51/classes.dex" />
+    </item>
+
+</items>

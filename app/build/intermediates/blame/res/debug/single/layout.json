@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/build/intermediates/res/merged/debug/layout/activity_a.xml",
+        "source": "/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/src/main/res/layout/activity_a.xml"
+    },
+    {
+        "merged": "/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/build/intermediates/res/merged/debug/layout/activity_dialog.xml",
+        "source": "/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/src/main/res/layout/activity_dialog.xml"
+    },
+    {
+        "merged": "/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/build/intermediates/res/merged/debug/layout/activity_c.xml",
+        "source": "/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/src/main/res/layout/activity_c.xml"
+    },
+    {
+        "merged": "/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/build/intermediates/res/merged/debug/layout/activity_b.xml",
+        "source": "/home/cif/GoogleDrive/cursos/adsw/android/2-1-ActivityLifecycle/app/src/main/res/layout/activity_b.xml"
+    }
+]
